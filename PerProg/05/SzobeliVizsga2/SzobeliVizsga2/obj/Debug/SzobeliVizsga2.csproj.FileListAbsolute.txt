@@ -1,0 +1,7 @@
+C:\Users\hallgato\source\repos\SzobeliVizsga2\SzobeliVizsga2\bin\Debug\SzobeliVizsga2.exe.config
+C:\Users\hallgato\source\repos\SzobeliVizsga2\SzobeliVizsga2\bin\Debug\SzobeliVizsga2.exe
+C:\Users\hallgato\source\repos\SzobeliVizsga2\SzobeliVizsga2\bin\Debug\SzobeliVizsga2.pdb
+C:\Users\hallgato\source\repos\SzobeliVizsga2\SzobeliVizsga2\obj\Debug\SzobeliVizsga2.csprojAssemblyReference.cache
+C:\Users\hallgato\source\repos\SzobeliVizsga2\SzobeliVizsga2\obj\Debug\SzobeliVizsga2.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\source\repos\SzobeliVizsga2\SzobeliVizsga2\obj\Debug\SzobeliVizsga2.exe
+C:\Users\hallgato\source\repos\SzobeliVizsga2\SzobeliVizsga2\obj\Debug\SzobeliVizsga2.pdb
