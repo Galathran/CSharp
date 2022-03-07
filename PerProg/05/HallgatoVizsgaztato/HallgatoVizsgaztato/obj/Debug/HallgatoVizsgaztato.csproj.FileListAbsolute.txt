@@ -1,0 +1,7 @@
+C:\Users\hallgato\source\repos\HallgatoVizsgaztato\HallgatoVizsgaztato\bin\Debug\HallgatoVizsgaztato.exe.config
+C:\Users\hallgato\source\repos\HallgatoVizsgaztato\HallgatoVizsgaztato\bin\Debug\HallgatoVizsgaztato.exe
+C:\Users\hallgato\source\repos\HallgatoVizsgaztato\HallgatoVizsgaztato\bin\Debug\HallgatoVizsgaztato.pdb
+C:\Users\hallgato\source\repos\HallgatoVizsgaztato\HallgatoVizsgaztato\obj\Debug\HallgatoVizsgaztato.csprojAssemblyReference.cache
+C:\Users\hallgato\source\repos\HallgatoVizsgaztato\HallgatoVizsgaztato\obj\Debug\HallgatoVizsgaztato.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\source\repos\HallgatoVizsgaztato\HallgatoVizsgaztato\obj\Debug\HallgatoVizsgaztato.exe
+C:\Users\hallgato\source\repos\HallgatoVizsgaztato\HallgatoVizsgaztato\obj\Debug\HallgatoVizsgaztato.pdb

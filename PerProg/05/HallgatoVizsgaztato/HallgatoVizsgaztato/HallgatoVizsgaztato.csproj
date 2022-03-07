@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C5F4F9A1-83BA-4A6B-B893-AE6B33BED311}</ProjectGuid>
+    <ProjectGuid>{6E8C3F82-B16E-4DD1-A833-DB790F2932FC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SzobeliVizsga2</RootNamespace>
-    <AssemblyName>SzobeliVizsga2</AssemblyName>
+    <RootNamespace>HallgatoVizsgaztato</RootNamespace>
+    <AssemblyName>HallgatoVizsgaztato</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
